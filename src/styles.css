@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background: rgb(238, 174, 202);
+  background: radial-gradient(
+    circle,
+    rgba(238, 174, 202, 1) 0%,
+    rgba(148, 187, 233, 1) 100%
+  );
+}
+h1 {
+  font-family: "Architects Daughter", cursive;
+  font-size: 3em;
+}
+#sub-head {
+  font-size: 2em;
+  font-weight: bold;
+  color: black;
+  font-family: "Architects Daughter", cursive;
+}
+button {
+  background-color: #164e63;
+  color: #ffff;
+  margin: 8px;
+  width: 70px;
+  border: none;
+  height: 25px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+hr {
+  border: 1px solid black;
+}
+li {
+  list-style: none;
+}

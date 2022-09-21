@@ -1,2 +1,1 @@
-# List_of_my_favourite_songs
-Created with CodeSandbox
+This app shows list of my favourite songs in different genre. It is built in ReactJs.I used codesandbox to built this app.
